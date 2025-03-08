@@ -4,4 +4,8 @@ Changes from main branch
 
 Conflict-Branch is changed
  conflict-branch
+ HEAD
 Changes from main branch
+
+Changes from Conflict-branch
+ conflict-branch
