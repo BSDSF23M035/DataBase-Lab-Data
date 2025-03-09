@@ -1,11 +1,1 @@
-New File is created and now we are free  I am Muhammad Shahid with Roll No BSDSF23M035
- HEAD
-Changes from main branch
-
-Conflict-Branch is changed
- conflict-branch
- HEAD
-Changes from main branch
-
-Changes from Conflict-branch
- conflict-branch
+Now I have changed in the 5th task 
